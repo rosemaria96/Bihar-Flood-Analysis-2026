@@ -56,7 +56,7 @@ These are descriptive findings for the sites and dates in this dataset. A period
 Open RStudio and run this command in the **Console**:
 
 ```r
-source("C:/Users/ACER/Documents/Codex/2026-09-23/the/outputs/analyze_bihar_2026_discharge.R")
+source("D:\Bihar Flood analysis\analyze_bihar_2026_discharge.R")
 ```
 
 The script expects `bihar_wrd_2026_discharge_jul13_sep23.csv` in the same `outputs` directory. It uses `tidyverse` and `lubridate` and writes the derived CSV files and plots back to that directory.
