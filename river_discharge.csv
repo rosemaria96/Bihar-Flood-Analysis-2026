@@ -1,0 +1,288 @@
+date,district,river,station,readings,river_discharge_cusecs,daily_mean_cusecs,river_discharge_m3s,source
+2026-07-13,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),4,97500,91325,2760.8925435,Bihar WRD River Discharge Dashboard
+2026-07-13,Rohtas,Sone,Sone (Indrapuri Barrage D/S),4,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-13,Supaul,Kosi,Kosi (Birpur Barrage D/S),4,172435,161533.75,4882.815443471,Bihar WRD River Discharge Dashboard
+2026-07-14,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,224000,203320,6342.9736384,Bihar WRD River Discharge Dashboard
+2026-07-14,Rohtas,Sone,Sone (Indrapuri Barrage D/S),4,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-14,Supaul,Kosi,Kosi (Birpur Barrage D/S),4,185310,178515,5247.394843446,Bihar WRD River Discharge Dashboard
+2026-07-15,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,191200,171560,5414.1810699200005,Bihar WRD River Discharge Dashboard
+2026-07-15,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,7909,4383.2,223.9579397594,Bihar WRD River Discharge Dashboard
+2026-07-15,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,173555,162403,4914.530311663,Bihar WRD River Discharge Dashboard
+2026-07-16,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,142100,129200,4023.82390186,Bihar WRD River Discharge Dashboard
+2026-07-16,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,1085,217,30.723778561,Bihar WRD River Discharge Dashboard
+2026-07-16,Supaul,Kosi,Kosi (Birpur Barrage D/S),6,160830,156386.66666666666,4554.1984386780005,Bihar WRD River Discharge Dashboard
+2026-07-17,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,124000,116960,3511.2889784,Bihar WRD River Discharge Dashboard
+2026-07-17,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,4399,1834.8,124.5658081934,Bihar WRD River Discharge Dashboard
+2026-07-17,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,155395,153318,4400.296377407,Bihar WRD River Discharge Dashboard
+2026-07-18,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),4,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-18,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,119000,111720,3369.7047454,Bihar WRD River Discharge Dashboard
+2026-07-18,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,13122,5048.2,371.5736610852,Bihar WRD River Discharge Dashboard
+2026-07-18,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,165820,156465,4695.4995032120005,Bihar WRD River Discharge Dashboard
+2026-07-19,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),4,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-19,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,121500,117500,3440.4968619,Bihar WRD River Discharge Dashboard
+2026-07-19,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,6325,4028.2,179.104054745,Bihar WRD River Discharge Dashboard
+2026-07-19,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,219325,193598,6210.592380545,Bihar WRD River Discharge Dashboard
+2026-07-20,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),2,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-20,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,121500,114020,3440.4968619,Bihar WRD River Discharge Dashboard
+2026-07-20,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,6726,3675.4,190.4591102316,Bihar WRD River Discharge Dashboard
+2026-07-20,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,255425,224734,7232.830542805,Bihar WRD River Discharge Dashboard
+2026-07-21,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),3,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-21,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,119000,113000,3369.7047454,Bihar WRD River Discharge Dashboard
+2026-07-21,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,8923,5008.4,252.6712222118,Bihar WRD River Discharge Dashboard
+2026-07-21,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,198260,190051,5614.0980069160005,Bihar WRD River Discharge Dashboard
+2026-07-22,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,2559,1506.4,72.4628104494,Bihar WRD River Discharge Dashboard
+2026-07-22,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,111500,111000,3157.3283959,Bihar WRD River Discharge Dashboard
+2026-07-22,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,18650,13447,528.10918909,Bihar WRD River Discharge Dashboard
+2026-07-22,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,177885,171473,5037.142257441,Bihar WRD River Discharge Dashboard
+2026-07-23,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-23,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,109000,102560,3086.5362794000002,Bihar WRD River Discharge Dashboard
+2026-07-23,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,36038,29108.4,1020.4825177708,Bihar WRD River Discharge Dashboard
+2026-07-23,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,187805,173117,5318.045375713,Bihar WRD River Discharge Dashboard
+2026-07-24,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-24,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,95200,89600,2695.76379632,Bihar WRD River Discharge Dashboard
+2026-07-24,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,27392,23008.4,775.6550620672,Bihar WRD River Discharge Dashboard
+2026-07-24,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,173735,161601,4919.627344051,Bihar WRD River Discharge Dashboard
+2026-07-25,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-25,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,99800,88960,2826.02129068,Bihar WRD River Discharge Dashboard
+2026-07-25,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,16511,13073.4,467.5394542126,Bihar WRD River Discharge Dashboard
+2026-07-25,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,135520,134287,3837.499051232,Bihar WRD River Discharge Dashboard
+2026-07-26,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-26,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,79700,77180,2256.85267402,Bihar WRD River Discharge Dashboard
+2026-07-26,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,23022,17360.4,651.9104424252,Bihar WRD River Discharge Dashboard
+2026-07-26,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,119895,117314,3395.048323107,Bihar WRD River Discharge Dashboard
+2026-07-27,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-27,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,106600,93120,3018.57584756,Bihar WRD River Discharge Dashboard
+2026-07-27,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,16847,12489.8,477.0539146702,Bihar WRD River Discharge Dashboard
+2026-07-27,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,122480,115480,3468.2473715680003,Bihar WRD River Discharge Dashboard
+2026-07-28,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-28,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,97500,91980,2760.8925435,Bihar WRD River Discharge Dashboard
+2026-07-28,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,18206,12751.2,515.5365091996,Bihar WRD River Discharge Dashboard
+2026-07-28,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,119930,112300,3396.039412738,Bihar WRD River Discharge Dashboard
+2026-07-29,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-29,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,95200,89840,2695.76379632,Bihar WRD River Discharge Dashboard
+2026-07-29,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,8949,3540.2,253.4074602234,Bihar WRD River Discharge Dashboard
+2026-07-29,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,104750,101357,2966.1896813500002,Bihar WRD River Discharge Dashboard
+2026-07-30,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-30,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,90600,84400,2565.50630196,Bihar WRD River Discharge Dashboard
+2026-07-30,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,7904,2633.4,223.8163555264,Bihar WRD River Discharge Dashboard
+2026-07-30,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,106900,105013,3027.0709015400002,Bihar WRD River Discharge Dashboard
+2026-07-31,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-07-31,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,83900,79700,2375.78342974,Bihar WRD River Discharge Dashboard
+2026-07-31,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,7964,3181.8,225.5153663224,Bihar WRD River Discharge Dashboard
+2026-07-31,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,134170,117131,3799.271308322,Bihar WRD River Discharge Dashboard
+2026-08-01,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-01,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,92900,90140,2630.63504914,Bihar WRD River Discharge Dashboard
+2026-08-01,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,5527,2697.8,156.5072111582,Bihar WRD River Discharge Dashboard
+2026-08-01,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,126545,123549,3583.355352997,Bihar WRD River Discharge Dashboard
+2026-08-02,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-02,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,111500,106740,3157.3283959,Bihar WRD River Discharge Dashboard
+2026-08-02,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,4725,2677,133.797100185,Bihar WRD River Discharge Dashboard
+2026-08-02,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,141965,129057,4020.001127569,Bihar WRD River Discharge Dashboard
+2026-08-03,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-03,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,139400,115900,3947.3684160400003,Bihar WRD River Discharge Dashboard
+2026-08-03,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,7082,3972.8,200.5399076212,Bihar WRD River Discharge Dashboard
+2026-08-03,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,181265,165906,5132.853198949,Bihar WRD River Discharge Dashboard
+2026-08-04,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-04,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,134000,127500,3794.4574444,Bihar WRD River Discharge Dashboard
+2026-08-04,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,5004,2342.8,141.6975003864,Bihar WRD River Discharge Dashboard
+2026-08-04,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,180175,173813,5101.987836155,Bihar WRD River Discharge Dashboard
+2026-08-05,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-05,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,139400,132580,3947.3684160400003,Bihar WRD River Discharge Dashboard
+2026-08-05,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,34212,17858.2,968.7759558792001,Bihar WRD River Discharge Dashboard
+2026-08-05,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,187560,176319,5311.107748296,Bihar WRD River Discharge Dashboard
+2026-08-06,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-06,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,209500,180420,5932.3793627000005,Bihar WRD River Discharge Dashboard
+2026-08-06,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,22852,19046.2,647.0965785032,Bihar WRD River Discharge Dashboard
+2026-08-06,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,239270,212133,6775.371885982,Bihar WRD River Discharge Dashboard
+2026-08-07,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-07,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,200600,177880,5680.35942796,Bihar WRD River Discharge Dashboard
+2026-08-07,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,23565,18009.6,667.2864901290001,Bihar WRD River Discharge Dashboard
+2026-08-07,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,220630,187939,6247.545865358,Bihar WRD River Discharge Dashboard
+2026-08-08,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-08,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,134000,130000,3794.4574444,Bihar WRD River Discharge Dashboard
+2026-08-08,Rohtas,Sone,Sone (Indrapuri Barrage D/S),6,41977,30426.833333333332,1188.6562697282,Bihar WRD River Discharge Dashboard
+2026-08-08,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,170480,168761,4827.456008368,Bihar WRD River Discharge Dashboard
+2026-08-09,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-09,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,121500,118000,3440.4968619,Bihar WRD River Discharge Dashboard
+2026-08-09,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,35177,32661.4,996.1017128482,Bihar WRD River Discharge Dashboard
+2026-08-09,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,169000,167294,4785.5470754,Bihar WRD River Discharge Dashboard
+2026-08-10,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-10,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,126500,109780,3582.0810949,Bihar WRD River Discharge Dashboard
+2026-08-10,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,42559,37645.2,1205.1366744494,Bihar WRD River Discharge Dashboard
+2026-08-10,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,182900,171243,5179.151243140001,Bihar WRD River Discharge Dashboard
+2026-08-11,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-11,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,111500,106700,3157.3283959,Bihar WRD River Discharge Dashboard
+2026-08-11,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,36657,33855.4,1038.0106458162,Bihar WRD River Discharge Dashboard
+2026-08-11,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,168445,161856,4769.831225537,Bihar WRD River Discharge Dashboard
+2026-08-12,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-12,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,92900,86580,2630.63504914,Bihar WRD River Discharge Dashboard
+2026-08-12,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,33743,24897.4,955.4953548238,Bihar WRD River Discharge Dashboard
+2026-08-12,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,141825,136367,4016.0367690450003,Bihar WRD River Discharge Dashboard
+2026-08-13,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-13,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,83900,80960,2375.78342974,Bihar WRD River Discharge Dashboard
+2026-08-13,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,34448,24564.2,975.4587316768,Bihar WRD River Discharge Dashboard
+2026-08-13,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,129555,125829,3668.589061263,Bihar WRD River Discharge Dashboard
+2026-08-14,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-14,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,180600,152680,5114.02249596,Bihar WRD River Discharge Dashboard
+2026-08-14,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,176049,84443,4985.1525270834,Bihar WRD River Discharge Dashboard
+2026-08-14,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,134340,124694,3804.085172244,Bihar WRD River Discharge Dashboard
+2026-08-15,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-15,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,131500,122500,3723.6653279,Bihar WRD River Discharge Dashboard
+2026-08-15,Rohtas,Sone,Sone (Indrapuri Barrage D/S),6,214834,92855.66666666667,6083.4214224644,Bihar WRD River Discharge Dashboard
+2026-08-15,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,126040,125260,3569.0553454640003,Bihar WRD River Discharge Dashboard
+2026-08-16,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-16,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,134000,129500,3794.4574444,Bihar WRD River Discharge Dashboard
+2026-08-16,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,154692,149312,4380.3896342472,Bihar WRD River Discharge Dashboard
+2026-08-16,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,153450,136323,4345.22011077,Bihar WRD River Discharge Dashboard
+2026-08-17,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-17,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,126500,121500,3582.0810949,Bihar WRD River Discharge Dashboard
+2026-08-17,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,125537,116784.8,3554.8119716242,Bihar WRD River Discharge Dashboard
+2026-08-17,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,142210,139993,4026.9387549860003,Bihar WRD River Discharge Dashboard
+2026-08-18,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,570,209.4,16.140602562,Bihar WRD River Discharge Dashboard
+2026-08-18,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,109000,104360,3086.5362794000002,Bihar WRD River Discharge Dashboard
+2026-08-18,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,95293,83867.8,2698.3972630538,Bihar WRD River Discharge Dashboard
+2026-08-18,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,125565,119027,3555.6048433290002,Bihar WRD River Discharge Dashboard
+2026-08-19,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),6,14207,12263.666666666666,402.2974396462,Bihar WRD River Discharge Dashboard
+2026-08-19,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,109000,99340,3086.5362794000002,Bihar WRD River Discharge Dashboard
+2026-08-19,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,275375,177190,7797.751632475,Bihar WRD River Discharge Dashboard
+2026-08-19,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,135980,122111,3850.524800668,Bihar WRD River Discharge Dashboard
+2026-08-20,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,3950,2637.4,111.85154407,Bihar WRD River Discharge Dashboard
+2026-08-20,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,104400,102560,2956.27878504,Bihar WRD River Discharge Dashboard
+2026-08-20,Rohtas,Sone,Sone (Indrapuri Barrage D/S),6,284917,243402.66666666666,8067.9509827322,Bihar WRD River Discharge Dashboard
+2026-08-20,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,140725,136297,3984.888237785,Bihar WRD River Discharge Dashboard
+2026-08-21,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-21,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,114000,99420,3228.1205124000003,Bihar WRD River Discharge Dashboard
+2026-08-21,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,201107,153231.8,5694.7160691862,Bihar WRD River Discharge Dashboard
+2026-08-21,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,162180,149920,4592.426181588,Bihar WRD River Discharge Dashboard
+2026-08-22,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-22,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,150200,128720,4253.19035932,Bihar WRD River Discharge Dashboard
+2026-08-22,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,244971,172899.8,6936.8062284486,Bihar WRD River Discharge Dashboard
+2026-08-22,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,160400,151103,4542.02219464,Bihar WRD River Discharge Dashboard
+2026-08-23,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-23,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,124000,118500,3511.2889784,Bihar WRD River Discharge Dashboard
+2026-08-23,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,102151,88933.2,2892.5941970366002,Bihar WRD River Discharge Dashboard
+2026-08-23,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,155120,153330,4392.509244592,Bihar WRD River Discharge Dashboard
+2026-08-24,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-24,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,102100,97960,2891.15003786,Bihar WRD River Discharge Dashboard
+2026-08-24,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,82921,74645.6,2348.0612369186,Bihar WRD River Discharge Dashboard
+2026-08-24,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,163345,153757,4625.4153078770005,Bihar WRD River Discharge Dashboard
+2026-08-25,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-25,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,90600,86080,2565.50630196,Bihar WRD River Discharge Dashboard
+2026-08-25,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,184489,129057.4,5224.1467123874,Bihar WRD River Discharge Dashboard
+2026-08-25,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,134560,134032,3810.314878496,Bihar WRD River Discharge Dashboard
+2026-08-26,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-26,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,142100,98420,4023.82390186,Bihar WRD River Discharge Dashboard
+2026-08-26,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,187730,159398,5315.9216122180005,Bihar WRD River Discharge Dashboard
+2026-08-26,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,137440,129791,3891.867396704,Bihar WRD River Discharge Dashboard
+2026-08-27,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-27,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,106600,103000,3018.57584756,Bihar WRD River Discharge Dashboard
+2026-08-27,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,124907,113732.2,3536.9723582662,Bihar WRD River Discharge Dashboard
+2026-08-27,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,148965,143066,4218.219053769,Bihar WRD River Discharge Dashboard
+2026-08-28,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-08-28,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,102100,98420,2891.15003786,Bihar WRD River Discharge Dashboard
+2026-08-28,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,86483,82712.2,2448.9258445078,Bihar WRD River Discharge Dashboard
+2026-08-28,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,140775,136862,3986.304080115,Bihar WRD River Discharge Dashboard
+2026-08-29,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),6,16156,8692.833333333334,457.4869736696,Bihar WRD River Discharge Dashboard
+2026-08-29,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,102100,100260,2891.15003786,Bihar WRD River Discharge Dashboard
+2026-08-29,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,72335,67156.8,2048.299098811,Bihar WRD River Discharge Dashboard
+2026-08-29,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,166535,152981,4715.746048531,Bihar WRD River Discharge Dashboard
+2026-08-30,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,11686,8176.8,330.9106693676,Bihar WRD River Discharge Dashboard
+2026-08-30,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,172200,144000,4876.16098452,Bihar WRD River Discharge Dashboard
+2026-08-30,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,87657,79734.8,2482.1698224162,Bihar WRD River Discharge Dashboard
+2026-08-30,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,196925,168688,5576.295016705,Bihar WRD River Discharge Dashboard
+2026-08-31,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,11176,4888.6,316.4690776016,Bihar WRD River Discharge Dashboard
+2026-08-31,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,119000,115500,3369.7047454,Bihar WRD River Discharge Dashboard
+2026-08-31,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,138293,114984,3916.0216668538,Bihar WRD River Discharge Dashboard
+2026-08-31,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,198845,193588,5630.663362177,Bihar WRD River Discharge Dashboard
+2026-09-01,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),6,24654,12441.666666666666,698.1235360764,Bihar WRD River Discharge Dashboard
+2026-09-01,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,150200,141060,4253.19035932,Bihar WRD River Discharge Dashboard
+2026-09-01,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,539553,425966.6,15278.439533569801,Bihar WRD River Discharge Dashboard
+2026-09-01,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,206445,195175,5845.871396337,Bihar WRD River Discharge Dashboard
+2026-09-02,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,18745,13935.6,530.799289517,Bihar WRD River Discharge Dashboard
+2026-09-02,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,175000,160660,4955.448155,Bihar WRD River Discharge Dashboard
+2026-09-02,Rohtas,Sone,Sone (Indrapuri Barrage D/S),6,563654,537853.1666666666,15960.9038534764,Bihar WRD River Discharge Dashboard
+2026-09-02,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,229990,205065,6512.5915495340005,Bihar WRD River Discharge Dashboard
+2026-09-03,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,20370,10843.6,576.8141652420001,Bihar WRD River Discharge Dashboard
+2026-09-03,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,152900,148580,4329.64584514,Bihar WRD River Discharge Dashboard
+2026-09-03,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,503097,446158.2,14246.1205739202,Bihar WRD River Discharge Dashboard
+2026-09-03,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,224190,214820,6348.353839254,Bihar WRD River Discharge Dashboard
+2026-09-04,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,6335,4565.8,179.387223211,Bihar WRD River Discharge Dashboard
+2026-09-04,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,129000,123500,3652.8732114,Bihar WRD River Discharge Dashboard
+2026-09-04,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,525650,486672,14884.75041529,Bihar WRD River Discharge Dashboard
+2026-09-04,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,210180,196079,5951.634818388,Bihar WRD River Discharge Dashboard
+2026-09-05,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,6185,2432.6,175.139696221,Bihar WRD River Discharge Dashboard
+2026-09-05,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,129000,126000,3652.8732114,Bihar WRD River Discharge Dashboard
+2026-09-05,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,415719,312943.8,11771.851151705401,Bihar WRD River Discharge Dashboard
+2026-09-05,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,187585,178162,5311.815669461,Bihar WRD River Discharge Dashboard
+2026-09-06,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,4148,3606.6,117.4582796968,Bihar WRD River Discharge Dashboard
+2026-09-06,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,129000,125000,3652.8732114,Bihar WRD River Discharge Dashboard
+2026-09-06,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,240734,206570,6816.8277494044005,Bihar WRD River Discharge Dashboard
+2026-09-06,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,216025,186510,6117.146786765,Bihar WRD River Discharge Dashboard
+2026-09-07,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-07,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,121500,115080,3440.4968619,Bihar WRD River Discharge Dashboard
+2026-09-07,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,139847,132374,3960.0260464702,Bihar WRD River Discharge Dashboard
+2026-09-07,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,207435,199810,5873.905074471,Bihar WRD River Discharge Dashboard
+2026-09-08,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-08,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,104400,95660,2956.27878504,Bihar WRD River Discharge Dashboard
+2026-09-08,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,105768,104883.8,2995.0162311888002,Bihar WRD River Discharge Dashboard
+2026-09-08,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,177880,161235,5037.000673208,Bihar WRD River Discharge Dashboard
+2026-09-09,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-09,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,92600,85220,2622.13999516,Bihar WRD River Discharge Dashboard
+2026-09-09,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,81822,80718.4,2316.9410225052,Bihar WRD River Discharge Dashboard
+2026-09-09,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,159525,147547,4517.244953865,Bihar WRD River Discharge Dashboard
+2026-09-10,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,8156,4690,230.9522008696,Bihar WRD River Discharge Dashboard
+2026-09-10,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,88300,84360,2500.37755478,Bihar WRD River Discharge Dashboard
+2026-09-10,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,95109,85139.4,2693.1869632794,Bihar WRD River Discharge Dashboard
+2026-09-10,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,144050,141751,4079.04175273,Bihar WRD River Discharge Dashboard
+2026-09-11,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,14862,9951.8,420.8449741692,Bihar WRD River Discharge Dashboard
+2026-09-11,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,77600,77600,2197.38729616,Bihar WRD River Discharge Dashboard
+2026-09-11,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,81866,72824.8,2318.1869637556,Bihar WRD River Discharge Dashboard
+2026-09-11,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,156740,140865,4438.382536084,Bihar WRD River Discharge Dashboard
+2026-09-12,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,9301,7570.6,263.3749902266,Bihar WRD River Discharge Dashboard
+2026-09-12,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,75500,74660,2137.9219183,Bihar WRD River Discharge Dashboard
+2026-09-12,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,84077,76344.8,2380.7955115882,Bihar WRD River Discharge Dashboard
+2026-09-12,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,139665,136677,3954.8723803890002,Bihar WRD River Discharge Dashboard
+2026-09-13,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,6796,4032,192.4412894936,Bihar WRD River Discharge Dashboard
+2026-09-13,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,86000,81800,2435.2488076,Bihar WRD River Discharge Dashboard
+2026-09-13,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,73406,61988.2,2078.6264415196,Bihar WRD River Discharge Dashboard
+2026-09-13,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,151015,139566,4276.268589299,Bihar WRD River Discharge Dashboard
+2026-09-14,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-14,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,111500,99880,3157.3283959,Bihar WRD River Discharge Dashboard
+2026-09-14,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,55067,51880,1559.3237917222,Bihar WRD River Discharge Dashboard
+2026-09-14,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,188785,167064,5345.7958853810005,Bihar WRD River Discharge Dashboard
+2026-09-15,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-15,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,90600,81460,2565.50630196,Bihar WRD River Discharge Dashboard
+2026-09-15,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,99697,80081,2823.1046554802,Bihar WRD River Discharge Dashboard
+2026-09-15,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,185480,171744,5252.208707368,Bihar WRD River Discharge Dashboard
+2026-09-16,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-16,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,106600,92580,3018.57584756,Bihar WRD River Discharge Dashboard
+2026-09-16,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,72273,61630.8,2046.5434543218,Bihar WRD River Discharge Dashboard
+2026-09-16,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,188630,172419,5341.406774158,Bihar WRD River Discharge Dashboard
+2026-09-17,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-17,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,81800,78860,2316.31805188,Bihar WRD River Discharge Dashboard
+2026-09-17,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,40410,37737,1144.2837711060001,Bihar WRD River Discharge Dashboard
+2026-09-17,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,157420,157420,4457.6379917720005,Bihar WRD River Discharge Dashboard
+2026-09-18,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-18,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,79700,72140,2256.85267402,Bihar WRD River Discharge Dashboard
+2026-09-18,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,35667,33171.6,1009.9769676822,Bihar WRD River Discharge Dashboard
+2026-09-18,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,170380,160729,4824.624323708,Bihar WRD River Discharge Dashboard
+2026-09-19,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-19,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,73400,66080,2078.45654044,Bihar WRD River Discharge Dashboard
+2026-09-19,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,31675,30635.4,896.9361160550001,Bihar WRD River Discharge Dashboard
+2026-09-19,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,148980,141997,4218.643806468001,Bihar WRD River Discharge Dashboard
+2026-09-20,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-20,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,57800,56360,1636.71373348,Bihar WRD River Discharge Dashboard
+2026-09-20,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,36217,34307.4,1025.5512333122,Bihar WRD River Discharge Dashboard
+2026-09-20,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,132965,128389,3765.149508169,Bihar WRD River Discharge Dashboard
+2026-09-21,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),5,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-21,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),5,54200,45640,1534.7730857200002,Bihar WRD River Discharge Dashboard
+2026-09-21,Rohtas,Sone,Sone (Indrapuri Barrage D/S),5,42268,34566.8,1196.8964720888,Bihar WRD River Discharge Dashboard
+2026-09-21,Supaul,Kosi,Kosi (Birpur Barrage D/S),5,124265,121563,3518.7929427490003,Bihar WRD River Discharge Dashboard
+2026-09-22,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),4,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-22,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),4,44200,39300,1251.60461972,Bihar WRD River Discharge Dashboard
+2026-09-22,Rohtas,Sone,Sone (Indrapuri Barrage D/S),4,42408,33202.25,1200.8608306128,Bihar WRD River Discharge Dashboard
+2026-09-22,Supaul,Kosi,Kosi (Birpur Barrage D/S),4,109500,108757.5,3100.6947027,Bihar WRD River Discharge Dashboard
+2026-09-23,Jehanabad,Falgu,Falgu (Uderasthan Barrage D/S),1,0,0,0,Bihar WRD River Discharge Dashboard
+2026-09-23,Pashchim Champaran,Gandak,Gandak (Valmikinagar Barrage D/S),1,37200,37200,1053.38669352,Bihar WRD River Discharge Dashboard
+2026-09-23,Rohtas,Sone,Sone (Indrapuri Barrage D/S),1,36160,36160,1023.937173056,Bihar WRD River Discharge Dashboard
+2026-09-23,Supaul,Kosi,Kosi (Birpur Barrage D/S),1,109500,109500,3100.6947027,Bihar WRD River Discharge Dashboard
